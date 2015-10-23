@@ -1,4 +1,4 @@
 # skeleton-gulp-seed
 Browser app seed with:
-- Skeleton CSS
-- Gulpfile
+- Skeleton CSS.
+- Gulpfile : JSLint + Livereload.
